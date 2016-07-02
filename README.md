@@ -1,23 +1,23 @@
-# my-react-native
-I have learned react-native for 1 month and I create app to my company that I'm intern by react-native.
+# My React-native
+I have learned React-native for a month and I create an app for my company that I'm intern by React-native.
 
-Because I use linux then I create only android and my team will port to ios by the same code!
+Because I use Linux then I create only Android and my team will port to IOS by the same code!
 
-React-native is good for me because I'm a beginer in Java and I just make basic app android but I'm a web developer I love Javascript and I know React.
+React-native is good for me because I'm a beginner in Java and I just make a basic app Android, but I'm a web developer I love Javascript and I know React.
 
-I will talk about pros and cons that I think.
+I will talk about the pros and cons that I think.
 
 ###Pros
 - React-native build native app. Don't worry about performance.
-- You don't have to know about java or Object-C. You just know how app can run.
-- If you are greate Javascript es6, React, Redex you will create app very fast.
-- React look like XML but React can do more than XML, JS look like java but JS is asynchronous!!
+- You don't have to know about java or Objective-C. You just need to know how this app works.
+- It's faster if you're good at Javascript es6, React, Redux.
+- React is look like XML but it can do more than XML, JS look like java but It's asynchronous!!
 
 ###Cons
-- If you are beginner Javascript it will be hard to do.
-- React-native use only flex-box and not support many css style, it hard to create 100% same design
-- It's new, some package still have bug. Sometime you must fix package before use it.
-- You must have learning curve to write a greate app.
+- If you are a beginner of Javascript I think it might be hard.
+- React-native use only flex-box and didn't support many css style so it's hard to make it exactly look like your designs. 
+- It's new, some packages are still have bugs. Sometime you must fix them before you use it.
+- You must have learning curve to write some greate apps.
 
 ###Document
 - [Basic guide of React-native](https://facebook.github.io/react-native/docs/getting-started.html)
